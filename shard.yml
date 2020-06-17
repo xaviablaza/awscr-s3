@@ -10,7 +10,7 @@ license: MIT
 
 dependencies:
   awscr-signer:
-    github: taylorfinnell/awscr-signer
+    github: xaviablaza/awscr-signer
     version: ~> 0.8.0
 
 development_dependencies:
